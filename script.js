@@ -1,1 +1,0 @@
-// Updated JavaScript for search, language switch, and interactivity
